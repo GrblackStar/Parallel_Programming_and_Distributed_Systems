@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reading_Writing_XML", "Reading_Writing_XML\Reading_Writing_XML.csproj", "{0F29FFAC-8447-4CEE-899B-871674499A07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP_Upr1", "PP_Upr1\PP_Upr1.csproj", "{A777B376-9C50-4F3E-8ADD-1BD6095FA5B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PP_Upr1", "PP_Upr1\PP_Upr1.csproj", "{A777B376-9C50-4F3E-8ADD-1BD6095FA5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP_Upr2", "PP_Upr2\PP_Upr2.csproj", "{DC1AEB3D-C5EB-448E-B473-F51A3DA63701}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A777B376-9C50-4F3E-8ADD-1BD6095FA5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A777B376-9C50-4F3E-8ADD-1BD6095FA5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A777B376-9C50-4F3E-8ADD-1BD6095FA5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1AEB3D-C5EB-448E-B473-F51A3DA63701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1AEB3D-C5EB-448E-B473-F51A3DA63701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1AEB3D-C5EB-448E-B473-F51A3DA63701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1AEB3D-C5EB-448E-B473-F51A3DA63701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
